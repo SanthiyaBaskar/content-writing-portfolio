@@ -26,7 +26,7 @@ All content is original, written by me, and reflects my interest in becoming a v
 | 7.  | [Frontend vs Backend](./frontend-vs-backend.md)             | Technical Content |
 | 8.  | [Internship Tips Newsletter](./internship-tips-newsletter.md) | Newsletter      |
 | 9.  | [Time Management for Students](./time-management-students.md) | Blog Article    |
-| 10. | [Portfolio Content Strategy](./portfolio-content-strategy.md) | Strategy Document |
+| 10. | [Portfolio Content Strategy](portfolio-content-strategy.md) | Strategy Document |
 
 ---
 
