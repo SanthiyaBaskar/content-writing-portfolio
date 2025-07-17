@@ -36,4 +36,3 @@ To create a personal portfolio site that not only showcases my technical skills 
 ---
 
 This strategy helps communicate who I am — not just as a developer, but as a **creative tech communicator**.
-
