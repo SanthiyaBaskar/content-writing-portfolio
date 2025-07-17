@@ -15,18 +15,18 @@ All content is original, written by me, and reflects my interest in becoming a v
 
 ## 📚 List of Contents
 
-| No. | Title | Type |
-|-----|-------|------|
-| 1. [AI in Everyday Life](./ai-in-everyday-life.md) | Blog Article |
-| 2. [Product Description: Smartwatch](./smartwatch-description.md) | Product Copy |
-| 3. [Email: Leave Request](./email-leave-request.md) | Formal Email |
-| 4. [Email: Project Update](./email-project-update.md) | Formal Email |
-| 5. [Blog: Why UX Design Matters](./why-ux-design-matters.md) | Blog Article |
-| 6. [Social Media Caption: Productivity App](./social-post-productivity.md) | Social Media |
-| 7. [Technical Blog: Frontend vs Backend](./frontend-vs-backend.md) | Technical Content |
-| 8. [Newsletter Draft: Internship Tips](./internship-tips-newsletter.md) | Newsletter |
-| 9. [Blog: Time Management for Students](./time-management-students.md) | Blog Article |
-| 10. [Content Strategy Plan: Portfolio Website](./portfolio-content-strategy.md) | Strategy Document |
+| Filename                        | Type           | What It Covers                                  |
+| ------------------------------- | -------------- | ----------------------------------------------- |
+| `ai-in-everyday-life.md`        | Blog           | How AI helps in daily tasks                     |
+| `smartwatch-description.md`     | Product Copy   | Describe a fictional smartwatch                 |
+| `email-leave-request.md`        | Email          | Formal email requesting leave                   |
+| `email-project-update.md`       | Email          | Email giving team a status update               |
+| `why-ux-design-matters.md`      | Blog           | Blog post about UI/UX importance                |
+| `social-post-productivity.md`   | Social Media   | Caption for a new app                           |
+| `frontend-vs-backend.md`        | Technical Blog | Explains difference in simple terms             |
+| `internship-tips-newsletter.md` | Newsletter     | Tips for students applying for internships      |
+| `time-management-students.md`   | Blog           | How students can manage their time              |
+| `portfolio-content-strategy.md` | Strategy Doc   | Plan for organizing content in a portfolio site |
 
 ---
 
